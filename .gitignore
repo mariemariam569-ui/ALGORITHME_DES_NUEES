@@ -1,0 +1,17 @@
+# Environnements virtuels Python
+tp_science_donnee/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
